@@ -12,19 +12,19 @@ function App() {
   const [todos, setTodos] = useState([
     {
       id: 1,
-      text: "Cria funcionalidade x no sistema",
+      text: "Cria funcionalidade TO DO LIST",
       category: "Trabalho",
       isCompleted: FontFaceSetLoadEvent,
     },
     {
       id: 2,
-      text: "Faculdade",
+      text: "Estudar React",
       category: "Estudos",
       isCompleted: FontFaceSetLoadEvent,
     },
     {
       id: 3,
-      text: "Academia",
+      text: "Assistir the office",
       category: "Pessoal",
       isCompleted: FontFaceSetLoadEvent,
     },
